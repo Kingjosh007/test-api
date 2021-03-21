@@ -14,19 +14,37 @@
         "themeColor1": "#1e3f5a",
         "themeColor2": "#f5ab90"
     },
-    "guestsList": [{
+    "guests": [{
         "guestId": 1,
         "guestTitle": "M.",
         "guestName": "NANKEU Christophe",
+        "guestGender": "M",
         "guestNotes": "",
         "guestCategory": "",
         "guestTableId": 10
-    }],
+    },
+    {
+        "guestId": 2,
+        "guestTitle": "Mme",
+        "guestName": "MENGUE Evelyne",
+        "guestGender": "F",
+        "guestNotes": "Grande de taille, peau foncée.",
+        "guestCategory": "",
+        "guestTableId": 11
+    }
+],
 
     "tables": [{
         "tableId": 1,
         "tableName": "Amour",
         "tableMaxSeats": 10,
         "tableGuestsIds": []
-    }]
+    },
+    {
+        "tableId": 2,
+        "tableName": "Paix",
+        "tableMaxSeats": 10,
+        "tableGuestsIds": []
+    }
+]
 }
