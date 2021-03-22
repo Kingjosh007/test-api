@@ -31,6 +31,22 @@
         "guestNotes": "Grande de taille, peau foncée.",
         "guestCategory": "",
         "guestTableId": 11
+    },
+    {
+        "guestId": 3,
+        "guestTitle": "Mlle",
+        "guestName": "IBAKA Elodie",
+        "guestGender": "F",
+        "guestNotes": "Rien à signaler sur elle.",
+        "guestCategory": ""
+    },
+    {
+        "guestId": 4,
+        "guestTitle": "M",
+        "guestName": "MBALLA Benoit",
+        "guestGender": "F",
+        "guestNotes": "Rien à signaler sur lui",
+        "guestCategory": ""
     }
 ],
 
