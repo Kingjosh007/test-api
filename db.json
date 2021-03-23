@@ -15,7 +15,7 @@
         "themeColor2": "#f5ab90"
     },
     "guests": [{
-        "guestId": 1,
+        "id": 1,
         "guestTitle": "M.",
         "guestName": "NANKEU Christophe",
         "guestGender": "M",
@@ -24,7 +24,7 @@
         "guestTableId": 10
     },
     {
-        "guestId": 2,
+        "id": 2,
         "guestTitle": "Mme",
         "guestName": "MENGUE Evelyne",
         "guestGender": "F",
@@ -33,7 +33,7 @@
         "guestTableId": 11
     },
     {
-        "guestId": 3,
+        "id": 3,
         "guestTitle": "Mlle",
         "guestName": "IBAKA Elodie",
         "guestGender": "F",
@@ -41,7 +41,7 @@
         "guestCategory": ""
     },
     {
-        "guestId": 4,
+        "id": 4,
         "guestTitle": "M",
         "guestName": "MBALLA Benoit",
         "guestGender": "F",
@@ -51,13 +51,13 @@
 ],
 
     "tables": [{
-        "tableId": 1,
+        "id": 1,
         "tableName": "Amour",
         "tableMaxSeats": 10,
         "tableGuestsIds": []
     },
     {
-        "tableId": 2,
+        "id": 2,
         "tableName": "Paix",
         "tableMaxSeats": 10,
         "tableGuestsIds": []
