@@ -14,8 +14,7 @@
         "themeColor1": "#1e3f5a",
         "themeColor2": "#f5ab91"
     },
-    "guests": [
-        {
+    "guests": [{
             "id": 1,
             "guestTitle": "Mme.",
             "guestName": "BRUNNER Laurence",
@@ -29,14 +28,12 @@
             "guestName": "MARQUEZ Serge",
             "guestGender": "M",
             "guestNotes": "",
-            "guestCategory": "Grâce",
-        },
-    ],
-    "tables": [
-        {
-            "id": 1,
-            "tableName": "HONNEUR",
-            "tableMaxSeats": 7
+            "guestCategory": "Grâce"
         }
-    ]
+    ],
+    "tables": [{
+        "id": 1,
+        "tableName": "HONNEUR",
+        "tableMaxSeats": 7
+    }]
 }
