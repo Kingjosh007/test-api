@@ -34,6 +34,7 @@
     "tables": [{
         "id": 1,
         "tableName": "HONNEUR",
-        "tableMaxSeats": 7
+        "tableMaxSeats": 7,
+        "tableGuestsIds": [1, 2]
     }]
 }
